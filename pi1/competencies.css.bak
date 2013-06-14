@@ -1,0 +1,177 @@
+a img{border:0px;}
+td.beispiele_icons{width:100px;}
+.exacomp_input_long {width:550px;} 
+.sprache {
+    margin: 0 auto;
+    padding-top: 5px;
+    width: 900px;
+
+}
+.sprache img {padding-left:5px;}
+.sprachewrap{
+    background-color:white;
+}
+.desp_edit_topic{width:550px;height:60px;}
+.desp_edit_title{width:550px;height:20px;}
+.desp_edit_descr{width:550px;height:60px;}
+.desp_edit_examp{width:550px;height:60px;}
+.examples_descr select{min-height:500px;}
+body { 
+	font-family: 'Trebuchet MS', Verdana, Arial, sans-serif;
+	color:#00000;
+	font-size: 13px;
+	background: url(images/bg.gif);
+	background-position: top center;
+	background-repeat: repeat-x;
+	background-color:#FeF7E9;
+	margin:0;
+	padding:0;
+	}
+
+
+.tx-exabiscompetences-pi1 {
+
+}
+
+
+
+#c105 {
+	width:900px;
+	margin: 30px auto 0 auto;
+	text-align:left;
+}
+
+#c105 p {
+	padding-left:40px;
+}
+
+ul.nav {height:27px;margin-top:30px;margin-left:0;padding-left:0;}
+ul.nav li {float:left;padding-right:15px;}
+ul {list-style-type:none;}
+
+ul.nav li a {
+display:block;
+background-color: #FeF7E9;
+border-top: 1px solid #9f9f9f;
+border-left: 1px solid #9f9f9f;
+border-right: 1px solid #9f9f9f;
+border-top-right-radius: 6px;
+-moz-border-radius-topright: 6px;
+-webkit-border-top-left-radius: 6px;
+border-top-left-radius: 6px;
+-moz-border-radius-topleft: 6px;
+-webkit-border-top-left-radius: 6px;
+padding:5px 10px;
+color:#000;
+text-decoration:none;
+}
+
+.navidiv {
+background-color:#fff;
+padding-top:30px;
+}
+
+.navidiv ul {
+	width:900px;
+	margin: 0 auto 0 auto;
+}
+
+div.contentdiv {
+	width:900px;
+	margin: 0 auto 0 auto;
+	padding-top:20px;
+}
+
+div.top {
+	background-color:#fff;
+	height:70px;
+}
+
+div.top h1 {
+	font-size: 29px;
+	font-style:italic;
+	color:#000;
+	width:760px;
+	padding:20px 0 20px 0;
+	margin: 0 auto 0 auto;
+}
+
+div.contentwrapper {
+	padding-left:40px;
+	padding-right:40px;
+}
+
+ul.nav li a:hover {
+background-color: #f25f0f;
+color:#fff;
+}
+
+h1.headerb {
+	font-size: 24px;
+	font-style:italic;
+	margin-bottom:20px;
+	color:#f25f0f;
+}
+
+table.tx_exacomp_tedit td, .tx_exacomp_tedit th{
+
+}
+
+.tx_exacomp_tedit td, .tx_exacomp_tedit th{
+padding:4px 0 4px 0;
+}
+
+thead th{
+text-align:left;
+font-size: 13px;
+padding-bottom:8px;
+border-bottom:1px solid #9f9f9f;
+}
+
+
+.gtnlogo {
+  width:150px;
+  height:57px;
+  position: absolute;
+  top: 20px;
+  left:50%;
+  margin-left:270px;
+  background: url(logogtn.jpg) no-repeat 0 0;	
+}
+
+td.tx_exacomp_edit, td.tx_exacomp_delete {
+padding-left:5px;
+}
+
+.fldheader {
+	width:150px;
+	display:block;
+	float:left;
+}
+.fldheader2 {
+	width:180px;
+	display:block;
+	float:left;
+}
+
+.fldinput, .fldinput {
+	margin:2px;
+}
+.fldinput input,.fldinput select {
+	margin:2px;
+}
+.fldinput textarea{
+	width:740px;
+	height:80px;
+}
+
+td.tx_exacomp_header {
+	padding-top: 20px;
+}
+
+td.tx_exacomp_title {
+	padding-left: 15px;
+	font-size: 14px;
+}
+
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'exabis_competences'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_exabiscompetences_educationlevels">Educational Levels</label>
+			<label index="tx_exabiscompetences_educationlevels.title">Title</label>
+			<label index="tx_exabiscompetences_schooltypes">School Types</label>
+			<label index="tx_exabiscompetences_schooltypes.title">Title</label>
+			<label index="tx_exabiscompetences_schooltypes.elid">Education Level</label>
+			<label index="tx_exabiscompetences_subjects">Subjects</label>
+			<label index="tx_exabiscompetences_subjects.title">Title</label>
+			<label index="tx_exabiscompetences_subjects.stid">Schooltype</label>
+			<label index="tx_exabiscompetences_topics">Topics</label>
+			<label index="tx_exabiscompetences_topics.title">Title</label>
+			<label index="tx_exabiscompetences_topics.subjid">Subject</label>
+			<label index="tx_exabiscompetences_descriptors">Descriptors</label>
+			<label index="tx_exabiscompetences_descriptors.title">Title</label>
+			<label index="tx_exabiscompetences_descriptors.topicid">Topic</label>
+			<label index="tx_exabiscompetences_descriptors.exampleid">Examples</label>
+			<label index="tx_exabiscompetences_descriptors.taxid">Taxonomy</label>
+			<label index="tx_exabiscompetences_descriptors.parent_id">Uebergeordneter Deskriptor</label>
+			<label index="tx_exabiscompetences_descriptors.niveauid">Niveau</label>
+			<label index="tx_exabiscompetences_descriptors.skillid">Skill</label>
+			<label index="tx_exabiscompetences_examples">Examples</label>
+			<label index="tx_exabiscompetences_examples.title">Title</label>
+			<label index="tx_exabiscompetences_examples.descrid">Descriptor</label>
+			<label index="tx_exabiscompetences_examples.task">Task</label>
+			<label index="tx_exabiscompetences_examples.solution">Solution</label>
+			<label index="tx_exabiscompetences_examples.attachement">Attachment</label>
+			<label index="tx_exabiscompetences_examples.completefile">Complete File</label>
+			<label index="tx_exabiscompetences_examples.description">Description</label>
+			<label index="tx_exabiscompetences_examples.taxid">Taxonomy</label>
+			<label index="tx_exabiscompetences_examples.timeframe">Timeframe</label>
+			<label index="tx_exabiscompetences_examples.ressources">Additional Resources</label>
+			<label index="tx_exabiscompetences_examples.tips">Didactical Tips</label>
+			<label index="tx_exabiscompetences_examples.externalurl">External Url</label>
+			<label index="tx_exabiscompetences_examples.externalsolution">External link to solution</label>
+			<label index="tx_exabiscompetences_examples.externaltask">External link to task</label>
+			<label index="tx_exabiscompetences_taxonomies">Taxonomies</label>
+			<label index="tx_exabiscompetences_taxonomies.title">Title</label>
+			<label index="tx_exabiscompetences_niveaus">Niveau</label>
+			<label index="tx_exabiscompetences_niveaus.title">Bezeichnung</label>
+			<label index="tx_exabiscompetences_niveaus.levelcode">Level (z.B. A1)</label>
+			<label index="tx_exabiscompetences_niveaus.skillid">Skill</label>
+			<label index="tx_exabiscompetences_niveaus.parent_niveau">Nivau</label>
+			<label index="tx_exabiscompetences_skills">Skills (Sprachen Fähgkeiten)</label>
+			<label index="tx_exabiscompetences_skills.title">Title</label>
+			<label index="tx_exabiscompetences_desp_lang">Desp Sprache</label>
+			<label index="tx_exabiscompetences_desp_lang.title">Title</label>
+		</languageKey>
+	</data>
+</T3locallang>

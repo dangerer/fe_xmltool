@@ -1,0 +1,29 @@
+<?php
+if (!defined('TYPO3_MODE')) {
+	die ('Access denied.');
+}
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_educationlevels=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_schooltypes=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_subjects=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_topics=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_descriptors=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_examples=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_taxonomies=1
+');
+t3lib_extMgm::addUserTSConfig('
+	options.saveDocNew.tx_exabiscompetences_skills=1
+');
+?>
